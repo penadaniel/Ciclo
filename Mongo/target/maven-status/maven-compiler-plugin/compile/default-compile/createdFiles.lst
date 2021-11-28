@@ -1,0 +1,11 @@
+co\usa\ciclo\Web\cloneController.class
+co\usa\ciclo\Modelo\User.class
+co\usa\ciclo\MongoApplication.class
+co\usa\ciclo\Web\UserController.class
+co\usa\ciclo\Service\UserService.class
+co\usa\ciclo\Repository\crud\UserRepository.class
+co\usa\ciclo\Service\cloneService.class
+co\usa\ciclo\Modelo\Clone.class
+co\usa\ciclo\Repository\crud\cloneCrudRepository.class
+co\usa\ciclo\Repository\crud\cloneRepository.class
+co\usa\ciclo\Repository\crud\UserCrudRepository.class
